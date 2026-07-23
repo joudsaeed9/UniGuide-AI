@@ -57,7 +57,6 @@ Instead of relying only on the AI model's general knowledge, the system retrieve
 
 ## Team Members
 
-- Waad Alghamdi
 - Joud Saeed
 
 ---
